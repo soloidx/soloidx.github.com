@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Soloidx</title>
-    <link>http://ider.ninja/</link>
-    <description>Recent content on Soloidx</description>
+    <title>Posts on Soloidx</title>
+    <link>http://ider.ninja/post/</link>
+    <description>Recent content in Posts on Soloidx</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Mon, 16 Jun 2014 23:29:00 +0000</lastBuildDate>
     
-	<atom:link href="http://ider.ninja/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://ider.ninja/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

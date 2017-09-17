@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programacion on Soloidx</title>
+    <link>http://ider.ninja/categories/programacion/</link>
+    <description>Recent content in Programacion on Soloidx</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sat, 14 Jun 2014 17:44:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://ider.ninja/categories/programacion/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>07 [Movido] Python para alegrarme el día</title>
+      <link>http://ider.ninja/2014/06/07-movido-python-para-alegrarme-el-d%C3%ADa/</link>
+      <pubDate>Sat, 14 Jun 2014 17:44:00 +0000</pubDate>
+      
+      <guid>http://ider.ninja/2014/06/07-movido-python-para-alegrarme-el-d%C3%ADa/</guid>
+      <description>Este es uno de mis artículos migrado de mi anterior blog, fue escrito el 13/03/2012
+ Debo de reconocer que me gusta mucho leer el manga y en especial me gusta mucho los lectores web como submanga, pero debido a la poca velocidad de conexión y a que no dispongo de tiempo suficiente como para cargar imagen por imagen cada pagina y ponerme a leer así que invoque mis superpoderes de desarrollador de python - que bien me caen ;) - y decide hacer algo al respecto.</description>
+    </item>
+    
+  </channel>
+</rss>

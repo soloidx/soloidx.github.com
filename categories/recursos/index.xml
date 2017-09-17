@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recursos on Soloidx</title>
+    <link>http://ider.ninja/categories/recursos/</link>
+    <description>Recent content in Recursos on Soloidx</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 13 Jun 2014 18:48:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://ider.ninja/categories/recursos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>06 [Movido] - Preparando Mi Charla De Python (III) El Codigo</title>
+      <link>http://ider.ninja/2014/06/06-movido---preparando-mi-charla-de-python-iii-el-codigo/</link>
+      <pubDate>Fri, 13 Jun 2014 18:48:00 +0000</pubDate>
+      
+      <guid>http://ider.ninja/2014/06/06-movido---preparando-mi-charla-de-python-iii-el-codigo/</guid>
+      <description>Este es uno de mis artículos migrado de mi anterior blog, fue escrito el 11/03/2012
+  python motherfucker   Ya con los slides en avanzada me toca hacer las demostraciones en código (por dios! si voy a hablar de un lenguaje, al menos tengo que mostrar algo de código que funcione!) es por eso que necesito al menos una terminal, aquí me encontré entre optar por escribir las demostraciones en el momento o traer scripts ya listos y ejecutarlos, si me voy por el primero podría darse el caso de que tenga pánico escénico y me olvide de escribirlos por otro lado tener los scripts listos da una sensación de copy/paste y en lo personal no me gusta&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>02 [movido] - Preparando mi charla de python (i) La planificacion</title>
+      <link>http://ider.ninja/2013/04/02-movido---preparando-mi-charla-de-python-i-la-planificacion/</link>
+      <pubDate>Sun, 07 Apr 2013 16:22:00 +0000</pubDate>
+      
+      <guid>http://ider.ninja/2013/04/02-movido---preparando-mi-charla-de-python-i-la-planificacion/</guid>
+      <description>Este es uno de mis artículos migrado de mi anterior blog, fue escrito el 9/03/2012
+ Hace poco un amigo mio me invitó a que participe de un evento que su comunidad de desarrollo esta organizando, esta se llama UCSSINUX y el evento es el UCSSINUX open day.
+Como me pidieron que la charla se oriente al desarrollo, me encontraba en serios problemas, no sabia el nivel técnico que tendrían las personas, por un lado no me gusta dictar una charla muy técnica (a menos que quiera impresionar) ya que si el publico no lo comprende no tendría sentido, por otro lado si el nivel técnico de mi charla es muy baja.</description>
+    </item>
+    
+  </channel>
+</rss>

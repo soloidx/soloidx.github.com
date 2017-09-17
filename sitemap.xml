@@ -3,7 +3,68 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://ider.ninja/2014/06/11-instrucciones-para-un-mal-dia/</loc>
+    <lastmod>2014-06-16T23:29:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ider.ninja/2014/06/10-movido-the-python-paradox/</loc>
+    <lastmod>2014-06-15T16:24:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ider.ninja/2014/06/09-movido---post-de-prueba-con-vim/</loc>
+    <lastmod>2014-06-15T15:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ider.ninja/2014/06/08-del-pensamiento-hacker-y-otras-cosas-ii-the-smartest-person/</loc>
+    <lastmod>2014-06-15T14:45:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ider.ninja/2014/06/07-movido-python-para-alegrarme-el-d%C3%ADa/</loc>
+    <lastmod>2014-06-14T17:44:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ider.ninja/2014/06/06-movido---preparando-mi-charla-de-python-iii-el-codigo/</loc>
+    <lastmod>2014-06-13T18:48:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ider.ninja/2014/06/05-del-pensamiento-hacker-y-otras-cosas-i-el-foco/</loc>
+    <lastmod>2014-06-13T18:28:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ider.ninja/2013/04/04-al-ataque-del-fsm/</loc>
+    <lastmod>2013-04-08T19:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ider.ninja/2013/04/03-movido---preparando-mi-charla-de-python-ii-las-herramientas/</loc>
+    <lastmod>2013-04-07T16:33:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ider.ninja/2013/04/02-movido---preparando-mi-charla-de-python-i-la-planificacion/</loc>
+    <lastmod>2013-04-07T16:22:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ider.ninja/2013/04/01-make-it-happen/</loc>
+    <lastmod>2013-04-06T19:55:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://ider.ninja/archives/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ider.ninja/tags/cambios/</loc>
+    <lastmod>2014-06-15T15:30:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -13,12 +74,104 @@
   </url>
   
   <url>
+    <loc>http://ider.ninja/categories/charlas/</loc>
+    <lastmod>2014-06-15T16:24:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ider.ninja/tags/desarrollo/</loc>
+    <lastmod>2013-04-08T19:10:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ider.ninja/tags/hacker-mindset/</loc>
+    <lastmod>2014-06-15T14:45:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ider.ninja/categories/misc/</loc>
+    <lastmod>2014-06-15T15:30:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ider.ninja/tags/personal/</loc>
+    <lastmod>2014-06-15T15:30:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ider.ninja/categories/personal/</loc>
+    <lastmod>2014-06-16T23:29:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ider.ninja/post/</loc>
+    <lastmod>2014-06-16T23:29:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ider.ninja/categories/programacion/</loc>
+    <lastmod>2014-06-14T17:44:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ider.ninja/tags/python/</loc>
+    <lastmod>2014-06-15T16:24:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ider.ninja/categories/python/</loc>
+    <lastmod>2014-06-13T18:48:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ider.ninja/tags/recursos/</loc>
+    <lastmod>2014-06-15T16:24:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ider.ninja/categories/recursos/</loc>
+    <lastmod>2014-06-13T18:48:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ider.ninja/tags/reflexiones/</loc>
+    <lastmod>2014-06-16T23:29:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://ider.ninja/</loc>
+    <lastmod>2014-06-16T23:29:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://ider.ninja/tags/</loc>
+    <lastmod>2014-06-15T15:30:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ider.ninja/tags/vim/</loc>
+    <lastmod>2014-06-15T15:30:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ider.ninja/tags/webscrapping/</loc>
+    <lastmod>2014-06-15T16:24:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
