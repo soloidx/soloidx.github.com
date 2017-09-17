@@ -25,4 +25,12 @@ echo "Generating site"
 hugo
 
 echo "Updating master branch"
-cd public && git add --all && git commit -m "Publishing to gh-pages"
+msg="rebuilding site `date`"
+if [ $# -eq 1 ]
+    then msg="$1"
+fi
+cd public && git add --all && git commit -m "$msg"
+
+git push origin master
+
+cd ..
