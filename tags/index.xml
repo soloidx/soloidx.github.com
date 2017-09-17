@@ -2,93 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Soloidx</title>
-    <link>http://ider.ninja/tags/</link>
+    <link>http://www.ider.ninja/tags/</link>
     <description>Recent content in Tags on Soloidx</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Sun, 15 Jun 2014 15:30:00 +0000</lastBuildDate>
     
-	<atom:link href="http://ider.ninja/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.ider.ninja/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cambios</title>
-      <link>http://ider.ninja/tags/cambios/</link>
+      <link>http://www.ider.ninja/tags/cambios/</link>
       <pubDate>Sun, 15 Jun 2014 15:30:00 +0000</pubDate>
       
-      <guid>http://ider.ninja/tags/cambios/</guid>
+      <guid>http://www.ider.ninja/tags/cambios/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Desarrollo</title>
-      <link>http://ider.ninja/tags/desarrollo/</link>
+      <link>http://www.ider.ninja/tags/desarrollo/</link>
       <pubDate>Mon, 08 Apr 2013 19:10:00 +0000</pubDate>
       
-      <guid>http://ider.ninja/tags/desarrollo/</guid>
+      <guid>http://www.ider.ninja/tags/desarrollo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hacker Mindset</title>
-      <link>http://ider.ninja/tags/hacker-mindset/</link>
+      <link>http://www.ider.ninja/tags/hacker-mindset/</link>
       <pubDate>Sun, 15 Jun 2014 14:45:00 +0000</pubDate>
       
-      <guid>http://ider.ninja/tags/hacker-mindset/</guid>
+      <guid>http://www.ider.ninja/tags/hacker-mindset/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Personal</title>
-      <link>http://ider.ninja/tags/personal/</link>
+      <link>http://www.ider.ninja/tags/personal/</link>
       <pubDate>Sun, 15 Jun 2014 15:30:00 +0000</pubDate>
       
-      <guid>http://ider.ninja/tags/personal/</guid>
+      <guid>http://www.ider.ninja/tags/personal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>http://ider.ninja/tags/python/</link>
+      <link>http://www.ider.ninja/tags/python/</link>
       <pubDate>Sun, 15 Jun 2014 16:24:00 +0000</pubDate>
       
-      <guid>http://ider.ninja/tags/python/</guid>
+      <guid>http://www.ider.ninja/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recursos</title>
-      <link>http://ider.ninja/tags/recursos/</link>
+      <link>http://www.ider.ninja/tags/recursos/</link>
       <pubDate>Sun, 15 Jun 2014 16:24:00 +0000</pubDate>
       
-      <guid>http://ider.ninja/tags/recursos/</guid>
+      <guid>http://www.ider.ninja/tags/recursos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reflexiones</title>
-      <link>http://ider.ninja/tags/reflexiones/</link>
+      <link>http://www.ider.ninja/tags/reflexiones/</link>
       <pubDate>Mon, 16 Jun 2014 23:29:00 +0000</pubDate>
       
-      <guid>http://ider.ninja/tags/reflexiones/</guid>
+      <guid>http://www.ider.ninja/tags/reflexiones/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vim</title>
-      <link>http://ider.ninja/tags/vim/</link>
+      <link>http://www.ider.ninja/tags/vim/</link>
       <pubDate>Sun, 15 Jun 2014 15:30:00 +0000</pubDate>
       
-      <guid>http://ider.ninja/tags/vim/</guid>
+      <guid>http://www.ider.ninja/tags/vim/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Webscrapping</title>
-      <link>http://ider.ninja/tags/webscrapping/</link>
+      <link>http://www.ider.ninja/tags/webscrapping/</link>
       <pubDate>Sun, 15 Jun 2014 16:24:00 +0000</pubDate>
       
-      <guid>http://ider.ninja/tags/webscrapping/</guid>
+      <guid>http://www.ider.ninja/tags/webscrapping/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vim on Soloidx</title>
-    <link>http://ider.ninja/tags/vim/</link>
+    <link>http://www.ider.ninja/tags/vim/</link>
     <description>Recent content in Vim on Soloidx</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Sun, 15 Jun 2014 15:30:00 +0000</lastBuildDate>
     
-	<atom:link href="http://ider.ninja/tags/vim/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.ider.ninja/tags/vim/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>09 [Movido] - Post de prueba con Vim</title>
-      <link>http://ider.ninja/2014/06/09-movido---post-de-prueba-con-vim/</link>
+      <link>http://www.ider.ninja/2014/06/09-movido---post-de-prueba-con-vim/</link>
       <pubDate>Sun, 15 Jun 2014 15:30:00 +0000</pubDate>
       
-      <guid>http://ider.ninja/2014/06/09-movido---post-de-prueba-con-vim/</guid>
+      <guid>http://www.ider.ninja/2014/06/09-movido---post-de-prueba-con-vim/</guid>
       <description>Este es uno de mis artículos migrado de mi anterior blog, fue escrito el 26/03/2012
  Empiezo este post confesando que soy un usuario y fan de Vim, lo suelo utilizar para todo, desde programar, hasta escribir correos y ahora he decidido agregar una característica mas a mi editor, la capacidad de postear a blogger.
 Espero que todo salga bien en esta prueba y la publicación sea exitosa.

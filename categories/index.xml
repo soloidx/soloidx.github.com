@@ -2,65 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Soloidx</title>
-    <link>http://ider.ninja/categories/</link>
+    <link>http://www.ider.ninja/categories/</link>
     <description>Recent content in Categories on Soloidx</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     
-	<atom:link href="http://ider.ninja/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.ider.ninja/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Charlas</title>
-      <link>http://ider.ninja/categories/charlas/</link>
+      <link>http://www.ider.ninja/categories/charlas/</link>
       <pubDate>Sun, 15 Jun 2014 16:24:00 +0000</pubDate>
       
-      <guid>http://ider.ninja/categories/charlas/</guid>
+      <guid>http://www.ider.ninja/categories/charlas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Misc</title>
-      <link>http://ider.ninja/categories/misc/</link>
+      <link>http://www.ider.ninja/categories/misc/</link>
       <pubDate>Sun, 15 Jun 2014 15:30:00 +0000</pubDate>
       
-      <guid>http://ider.ninja/categories/misc/</guid>
+      <guid>http://www.ider.ninja/categories/misc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Personal</title>
-      <link>http://ider.ninja/categories/personal/</link>
+      <link>http://www.ider.ninja/categories/personal/</link>
       <pubDate>Mon, 16 Jun 2014 23:29:00 +0000</pubDate>
       
-      <guid>http://ider.ninja/categories/personal/</guid>
+      <guid>http://www.ider.ninja/categories/personal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Programacion</title>
-      <link>http://ider.ninja/categories/programacion/</link>
+      <link>http://www.ider.ninja/categories/programacion/</link>
       <pubDate>Sat, 14 Jun 2014 17:44:00 +0000</pubDate>
       
-      <guid>http://ider.ninja/categories/programacion/</guid>
+      <guid>http://www.ider.ninja/categories/programacion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>http://ider.ninja/categories/python/</link>
+      <link>http://www.ider.ninja/categories/python/</link>
       <pubDate>Fri, 13 Jun 2014 18:48:00 +0000</pubDate>
       
-      <guid>http://ider.ninja/categories/python/</guid>
+      <guid>http://www.ider.ninja/categories/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recursos</title>
-      <link>http://ider.ninja/categories/recursos/</link>
+      <link>http://www.ider.ninja/categories/recursos/</link>
       <pubDate>Fri, 13 Jun 2014 18:48:00 +0000</pubDate>
       
-      <guid>http://ider.ninja/categories/recursos/</guid>
+      <guid>http://www.ider.ninja/categories/recursos/</guid>
       <description></description>
     </item>
     

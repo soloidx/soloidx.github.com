@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Desarrollo on Soloidx</title>
-    <link>http://ider.ninja/tags/desarrollo/</link>
+    <link>http://www.ider.ninja/tags/desarrollo/</link>
     <description>Recent content in Desarrollo on Soloidx</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Mon, 08 Apr 2013 19:10:00 +0000</lastBuildDate>
     
-	<atom:link href="http://ider.ninja/tags/desarrollo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.ider.ninja/tags/desarrollo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>04 Al ataque del FSM</title>
-      <link>http://ider.ninja/2013/04/04-al-ataque-del-fsm/</link>
+      <link>http://www.ider.ninja/2013/04/04-al-ataque-del-fsm/</link>
       <pubDate>Mon, 08 Apr 2013 19:10:00 +0000</pubDate>
       
-      <guid>http://ider.ninja/2013/04/04-al-ataque-del-fsm/</guid>
+      <guid>http://www.ider.ninja/2013/04/04-al-ataque-del-fsm/</guid>
       <description>Mientras tomo un café recuerdo cuando inicié un proyecto hace un par de años hice las cosas de mejor manera, implementé una estructura de archivos usaba los estándares de calidad de código, empezé a investigar sobre pruebas unitarias, implementé un par de test de ejemplo y empezé mi desarrollo usando el mejor framework en la última versión que podia encontrar.
 Con el tiempo, debido a presiones de tiempo empezé a creer que algunas cosas sobraban, dejé de lado los tests por que consumían tiempo, deje de consultar a mi cliente as cosas hasta tener funcionalidades completas para evitarme su charla de 10 minutos sobre como tendría que ir la lógica, empezé a solucionar los posibles errores en el lugar donde ocurría programé alocadamente con el fin de llegar a tiempo y me empezaba a sentir mal por ser tan lento en desarrollo.</description>
     </item>

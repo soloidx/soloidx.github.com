@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python on Soloidx</title>
-    <link>http://ider.ninja/tags/python/</link>
+    <link>http://www.ider.ninja/tags/python/</link>
     <description>Recent content in Python on Soloidx</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Sun, 15 Jun 2014 16:24:00 +0000</lastBuildDate>
     
-	<atom:link href="http://ider.ninja/tags/python/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.ider.ninja/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>10 [Movido] The Python Paradox</title>
-      <link>http://ider.ninja/2014/06/10-movido-the-python-paradox/</link>
+      <link>http://www.ider.ninja/2014/06/10-movido-the-python-paradox/</link>
       <pubDate>Sun, 15 Jun 2014 16:24:00 +0000</pubDate>
       
-      <guid>http://ider.ninja/2014/06/10-movido-the-python-paradox/</guid>
+      <guid>http://www.ider.ninja/2014/06/10-movido-the-python-paradox/</guid>
       <description>Este es uno de mis artículos migrado de mi anterior blog, fue escrito el 26/03/2012
  Aprovecho un poco de tempo de mi descanso para poner a disposición los materiales de la charla que dicté en el UCSSINUX Open Day realizado el 24 de marzo en la UCSS.
 Las diapositivas en prezzi: aquí
@@ -26,20 +26,20 @@ Un saludo grande y hasta la próxima ;)</description>
     
     <item>
       <title>07 [Movido] Python para alegrarme el día</title>
-      <link>http://ider.ninja/2014/06/07-movido-python-para-alegrarme-el-d%C3%ADa/</link>
+      <link>http://www.ider.ninja/2014/06/07-movido-python-para-alegrarme-el-d%C3%ADa/</link>
       <pubDate>Sat, 14 Jun 2014 17:44:00 +0000</pubDate>
       
-      <guid>http://ider.ninja/2014/06/07-movido-python-para-alegrarme-el-d%C3%ADa/</guid>
+      <guid>http://www.ider.ninja/2014/06/07-movido-python-para-alegrarme-el-d%C3%ADa/</guid>
       <description>Este es uno de mis artículos migrado de mi anterior blog, fue escrito el 13/03/2012
  Debo de reconocer que me gusta mucho leer el manga y en especial me gusta mucho los lectores web como submanga, pero debido a la poca velocidad de conexión y a que no dispongo de tiempo suficiente como para cargar imagen por imagen cada pagina y ponerme a leer así que invoque mis superpoderes de desarrollador de python - que bien me caen ;) - y decide hacer algo al respecto.</description>
     </item>
     
     <item>
       <title>03 [Movido] - Preparando mi charla de Python (II) Las herramientas</title>
-      <link>http://ider.ninja/2013/04/03-movido---preparando-mi-charla-de-python-ii-las-herramientas/</link>
+      <link>http://www.ider.ninja/2013/04/03-movido---preparando-mi-charla-de-python-ii-las-herramientas/</link>
       <pubDate>Sun, 07 Apr 2013 16:33:00 +0000</pubDate>
       
-      <guid>http://ider.ninja/2013/04/03-movido---preparando-mi-charla-de-python-ii-las-herramientas/</guid>
+      <guid>http://www.ider.ninja/2013/04/03-movido---preparando-mi-charla-de-python-ii-las-herramientas/</guid>
       <description>Este es uno de mis artículos migrado de mi anterior blog, fue escrito el 10/03/2012
  He revisado a grandes rasgos las herramientas que puedo utilizar para el desarrollo de mi charla, he pensado en usar un recurso online para el manejo de las presentaciones ya que en oportunidades anteriores solo he usado programas instalados en mi PC, ademas es muy común utilizar presentaciones de Microsoft&amp;copy; Office&amp;copy; y LibreOffice así que quiero salir un poco de la rutina y encontrar una herramienta nueva.</description>
     </item>

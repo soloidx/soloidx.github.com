@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Personal on Soloidx</title>
-    <link>http://ider.ninja/tags/personal/</link>
+    <link>http://www.ider.ninja/tags/personal/</link>
     <description>Recent content in Personal on Soloidx</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Sun, 15 Jun 2014 15:30:00 +0000</lastBuildDate>
     
-	<atom:link href="http://ider.ninja/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.ider.ninja/tags/personal/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>09 [Movido] - Post de prueba con Vim</title>
-      <link>http://ider.ninja/2014/06/09-movido---post-de-prueba-con-vim/</link>
+      <link>http://www.ider.ninja/2014/06/09-movido---post-de-prueba-con-vim/</link>
       <pubDate>Sun, 15 Jun 2014 15:30:00 +0000</pubDate>
       
-      <guid>http://ider.ninja/2014/06/09-movido---post-de-prueba-con-vim/</guid>
+      <guid>http://www.ider.ninja/2014/06/09-movido---post-de-prueba-con-vim/</guid>
       <description>Este es uno de mis artículos migrado de mi anterior blog, fue escrito el 26/03/2012
  Empiezo este post confesando que soy un usuario y fan de Vim, lo suelo utilizar para todo, desde programar, hasta escribir correos y ahora he decidido agregar una característica mas a mi editor, la capacidad de postear a blogger.
 Espero que todo salga bien en esta prueba y la publicación sea exitosa.
@@ -25,40 +25,40 @@ Saludos.</description>
     
     <item>
       <title>08 Del pensamiento hacker y otras cosas (II) The smartest person</title>
-      <link>http://ider.ninja/2014/06/08-del-pensamiento-hacker-y-otras-cosas-ii-the-smartest-person/</link>
+      <link>http://www.ider.ninja/2014/06/08-del-pensamiento-hacker-y-otras-cosas-ii-the-smartest-person/</link>
       <pubDate>Sun, 15 Jun 2014 14:45:00 +0000</pubDate>
       
-      <guid>http://ider.ninja/2014/06/08-del-pensamiento-hacker-y-otras-cosas-ii-the-smartest-person/</guid>
+      <guid>http://www.ider.ninja/2014/06/08-del-pensamiento-hacker-y-otras-cosas-ii-the-smartest-person/</guid>
       <description>Estas ultimas semanas ocurrieron cosas interesantes, mi reunión con Recursos Humanos en mi actual empresa en donde la pregunta: ¿Qué te apasiona? Retumbo en mi mente por unos días, como si fuera algo que olvide preguntarme hace un tiempo y lo segundo fueron dos ofertas de empleo que me hacen pensar - una vez mas - en qué me motiva para buscar un trabajo.
 Tenía en mente el escribir algo sobre esto pero no encontré la idea correcta que resuma todas las ideas que pasaban por mi cabeza y el desencadenate fue esta frase anónima:</description>
     </item>
     
     <item>
       <title>05 Del pensamiento hacker y otras cosas (I) El foco</title>
-      <link>http://ider.ninja/2014/06/05-del-pensamiento-hacker-y-otras-cosas-i-el-foco/</link>
+      <link>http://www.ider.ninja/2014/06/05-del-pensamiento-hacker-y-otras-cosas-i-el-foco/</link>
       <pubDate>Fri, 13 Jun 2014 18:28:00 +0000</pubDate>
       
-      <guid>http://ider.ninja/2014/06/05-del-pensamiento-hacker-y-otras-cosas-i-el-foco/</guid>
+      <guid>http://www.ider.ninja/2014/06/05-del-pensamiento-hacker-y-otras-cosas-i-el-foco/</guid>
       <description>Cuando empecé el año muchas ideas (con forma de resoluciones de año nuevo) vinieron a mi mente, hacer un poco de ejercicio, llevar clases para mejorar mi inglés, practicar uno que otro deporte de extremo, aprender guitarra, mejorar mis skills de DJ, actualizarme en temas de desarrollo, metodologías ágiles, mejores prácticas&amp;hellip;
 Pero empezando muchas cosas nuevas, al mismo tiempo, hace que sea muy fácil fallar en todo, creo que es cuando uno se replantea las cosas y priorizar&amp;hellip;</description>
     </item>
     
     <item>
       <title>04 Al ataque del FSM</title>
-      <link>http://ider.ninja/2013/04/04-al-ataque-del-fsm/</link>
+      <link>http://www.ider.ninja/2013/04/04-al-ataque-del-fsm/</link>
       <pubDate>Mon, 08 Apr 2013 19:10:00 +0000</pubDate>
       
-      <guid>http://ider.ninja/2013/04/04-al-ataque-del-fsm/</guid>
+      <guid>http://www.ider.ninja/2013/04/04-al-ataque-del-fsm/</guid>
       <description>Mientras tomo un café recuerdo cuando inicié un proyecto hace un par de años hice las cosas de mejor manera, implementé una estructura de archivos usaba los estándares de calidad de código, empezé a investigar sobre pruebas unitarias, implementé un par de test de ejemplo y empezé mi desarrollo usando el mejor framework en la última versión que podia encontrar.
 Con el tiempo, debido a presiones de tiempo empezé a creer que algunas cosas sobraban, dejé de lado los tests por que consumían tiempo, deje de consultar a mi cliente as cosas hasta tener funcionalidades completas para evitarme su charla de 10 minutos sobre como tendría que ir la lógica, empezé a solucionar los posibles errores en el lugar donde ocurría programé alocadamente con el fin de llegar a tiempo y me empezaba a sentir mal por ser tan lento en desarrollo.</description>
     </item>
     
     <item>
       <title>01 Make It Happen</title>
-      <link>http://ider.ninja/2013/04/01-make-it-happen/</link>
+      <link>http://www.ider.ninja/2013/04/01-make-it-happen/</link>
       <pubDate>Sat, 06 Apr 2013 19:55:00 +0000</pubDate>
       
-      <guid>http://ider.ninja/2013/04/01-make-it-happen/</guid>
+      <guid>http://www.ider.ninja/2013/04/01-make-it-happen/</guid>
       <description>&lt;p&gt;Hace mucho tiempo me decidí por hacer un blog, intenté por tres veces, y temo
 decir que fracasé en esas tres,  no fui lo sucicientemente constante como
 para generar muchos artículos y habituarme a postear seguido&amp;hellip; pero ahora es
