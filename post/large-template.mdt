@@ -1,0 +1,16 @@
+---
+title: "01 My First Post"
+date: 2017-09-17T11:29:25-05:00
+categories:
+- personal
+tags:
+- misc
+autoThumbnailImage: false
+thumbnailImagePosition: "top"
+thumbnailImage: http://via.placeholder.com/750x150
+coverImage: http://via.placeholder.com/800x800
+metaAlignment: center
+draft: true
+---
+
+yay!
