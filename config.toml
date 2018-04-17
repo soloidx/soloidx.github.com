@@ -3,8 +3,8 @@ languageCode = "es"
 defaultContentLanguage = "es"
 title = "Soloidx"
 theme = "hugo-tranquilpeak-theme"
-# disqusShortname = "hugo-tranquilpeak-theme"
-# googleAnalytics = "UA-123-45"
+disqusShortname = "soloidx"
+googleAnalytics = "UA-51915918-1"
 paginate = 7
 canonifyurls = true
 
