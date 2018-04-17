@@ -17,7 +17,7 @@
     
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="generator" content="Hugo 0.32.1 with theme Tranquilpeak 0.4.3-BETA">
+    <meta name="generator" content="Hugo 0.39 with theme Tranquilpeak 0.4.3-BETA">
     <title>Python</title>
     <meta name="author" content="Ider Delzo">
     <meta name="keywords" content="">
@@ -463,9 +463,12 @@ Un saludo grande y hasta la próxima ;)
                   Jun 6, 2014
                 </span>
               </span>
-              <div class="media-content hide-xs font-merryweather">Alguna vez te pasó estar en uno de esos días en donde todo lo que haces va mal, tus proyectos no se concretan, recibes malas noticias y no ves cuando la tormenta se va a calmar.
-Todos pasamos por días como esos y es en momento como este donde prefiero tener vídeos como este a la mano&hellip;
-  Lejos de mucho Shane Koyczan es un gran poeta para mí, con unas palabras profundas de una forma tan clara y precisa hacen ver que tu realidad es algo mas allá de lo que percibes&hellip; que hay poesía en la vida misma&hellip;</div>
+              <div class="media-content hide-xs font-merryweather"><p>Alguna vez te pasó estar en uno de esos días en donde todo lo que haces va mal,
+tus proyectos no se concretan, recibes malas noticias y no ves cuando la
+tormenta se va a calmar.</p>
+
+<p>Todos pasamos por días como esos y es en momento como este donde prefiero tener
+vídeos como este a la mano&hellip;</p></div>
             </div>
             <div style="clear:both;"></div>
             <hr>
@@ -560,7 +563,7 @@ Tenía en mente el escribir algo sobre esto pero no encontré la idea correcta q
                 </span>
               </span>
               <div class="media-content hide-xs font-merryweather">Este es uno de mis artículos migrado de mi anterior blog, fue escrito el 11/03/2012
-  python motherfucker   Ya con los slides en avanzada me toca hacer las demostraciones en código (por dios! si voy a hablar de un lenguaje, al menos tengo que mostrar algo de código que funcione!) es por eso que necesito al menos una terminal, aquí me encontré entre optar por escribir las demostraciones en el momento o traer scripts ya listos y ejecutarlos, si me voy por el primero podría darse el caso de que tenga pánico escénico y me olvide de escribirlos por otro lado tener los scripts listos da una sensación de copy/paste y en lo personal no me gusta&hellip;</div>
+   python motherfucker   Ya con los slides en avanzada me toca hacer las demostraciones en código (por dios! si voy a hablar de un lenguaje, al menos tengo que mostrar algo de código que funcione!) es por eso que necesito al menos una terminal, aquí me encontré entre optar por escribir las demostraciones en el momento o traer scripts ya listos y ejecutarlos, si me voy por el primero podría darse el caso de que tenga pánico escénico y me olvide de escribirlos por otro lado tener los scripts listos da una sensación de copy/paste y en lo personal no me gusta&hellip;</div>
             </div>
             <div style="clear:both;"></div>
             <hr>
@@ -661,12 +664,26 @@ Como me pidieron que la charla se oriente al desarrollo, me encontraba en serios
     
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
 
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.7/js/jquery.fancybox.min.js" integrity="sha256-GEAnjcTqVP+vBp3SSc8bEDQqvWAZMiHyUSIorrWwH50=" crossorigin="anonymous"></script>
 
 
 <script src="http://www.ider.ninja/js/script-qi9wbxp2ya2j6p7wx1i6tgavftewndznf4v0hy2gvivk1rxgc3lm7njqb6bz.min.js"></script>
 
 
+
+<script>
+$(document).ready(function() {
+  hljs.configure({ classPrefix: '', useBR: false });
+  $('pre.code-highlight > code, pre > code').each(function(i, block) {
+    if (!$(this).hasClass('codeblock')) {
+      $(this).addClass('codeblock');
+    }
+    hljs.highlightBlock(block);
+  });
+});
+</script>
 
 
 
